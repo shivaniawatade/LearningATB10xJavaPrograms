@@ -1,4 +1,4 @@
-package ex_03_Pratice_Java;
+package Task_7_Feb;
 import java.util.*;
 public class Lab028_Factorial {
     public static void main(String[] args) {
